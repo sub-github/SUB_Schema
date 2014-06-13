@@ -1,7 +1,9 @@
 1. mods2tei
-========		
+===========		
 	
   1.1 Hinweise
+  ============
+  
   - es fehlen folgende (in TEI-LITE verpflichtende) TEI Elemente
 				
     - TEI -> teiHeader -> fileDesc -> titleStmt
@@ -68,7 +70,7 @@
 ============
 
   2.1 Hinweise
-  -------------
+  ============
 		
   - allgemeine Fragen
  				
